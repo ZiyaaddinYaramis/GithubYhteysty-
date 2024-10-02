@@ -9,7 +9,8 @@ namespace GithubYhteystyö
 
         private void VaihdaBT_Click(object sender, EventArgs e)
         {
-            OtsikkoLB.Text = "Heippa Ziyaaddin";
+            OtsikkoLB.Text = "Heippa Rukhana";
+
         }
     }
 }
